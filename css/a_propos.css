@@ -1,0 +1,41 @@
+.citation-img{
+    width: 100%;
+}
+
+#aProposContainer{
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 35px;
+}
+
+.ilsparlentdenous-title{
+    color: #8db343;
+    text-align: center;
+}
+
+.ilsparlentdenous-explication{
+    text-align: center;
+}
+
+
+@media screen and (max-width : 1023px){
+
+    #aProposContainer{
+        background: #fff;
+        border-radius: 5px;
+        height: auto;
+        width: 90%;
+        text-align: justify;
+        margin: 20% 5%;
+        padding: 5% 10%;
+    }
+
+    #aProposContainer p{
+            text-align: justify;
+    }
+    
+    h2{
+        text-align: left;
+    }
+}

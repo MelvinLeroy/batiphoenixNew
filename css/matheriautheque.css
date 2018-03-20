@@ -1,0 +1,164 @@
+#sidebar{
+	height: 800px;
+	margin-top: 100px;
+}
+
+#checkboxes{
+	border-radius: 5px;
+	height: 300px;
+}
+
+#sidebar .row{
+	margin-left: 0;
+}
+
+#filterstitle{
+	text-align: center;
+	width: 100%;
+	background: #99AE42;
+	height: 27px;
+}
+
+#filterstitle p{
+	color: #fff;
+	font-size: 20px;
+}
+
+#pagetitle{
+	width: 100%;
+	height:51px;
+	background: url(../img/wood-wallpaper.jpg);
+}
+
+#pagetitle p{
+	color: #fff;
+	font-size: 35px;
+	padding-left: 30px;
+}
+
+#filters{
+	padding-left: 15px;
+    padding-top: 8px;
+}
+
+.result{
+	margin-top: 20px;
+	height: 325px;
+	text-align: center;
+}
+
+.image_result{
+	height: 225px;
+	width: 225px;;
+}
+
+.name_result{
+    color: #99AE42;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.adresse_result{
+	font-size: 16px;
+    font-weight: 300;
+}
+
+.image_result{
+	cursor: pointer;
+}
+
+.result_info_button{
+	color: #fff;
+	background: #99AE42;
+	border-radius: 25px;
+}
+
+.result_modal{
+	width: 80%;
+}
+
+.modal_content_result{
+	height: 600px;
+}
+
+.image_result_popup{
+	width: 70%;
+	max-height: 360px;
+}
+
+.name_result_popup, .desc_title{
+	color: #99ae42;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.text_stock{
+	color: #99ae42;
+}
+
+.number_stock, .text_stock{
+	display: inline;
+}
+
+.prix_result_popup{
+	margin-top: 10px;
+	color: #99ae42;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.description_result_popup, .adresse_result_popup{
+	height: 200px;
+}
+
+.desc_result_popup{
+    color: #aaa;
+}
+
+.desc_result_popup span{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.dimension_div{
+    padding-left: 0;
+}
+
+.dimension_result_popup, .origine_result_popup{
+    font-size: 16px;
+    color: #aaa;
+}
+
+.chantier_result_popup{
+    font-weight: bold;
+}
+
+.chantier_result_popup img{
+    width: 25px;
+    margin-right: 10px;
+}
+
+/*.grid-item {
+  float: left;
+  width: 170px;
+  height: 270px;
+  margin: 20px 0;
+  text-align: center;
+}*/
+
+@media screen and (max-width: 1023px){
+    
+    #footer{
+        display: none;
+    }
+    
+/*    .grid-item {
+        float: left;
+        width: 170px;
+        height: 170px;
+        margin: 20px 0;
+        text-align: center;
+      }*/
+
+}

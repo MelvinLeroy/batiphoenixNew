@@ -1,0 +1,22 @@
+#contactContainer{
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+}
+
+@media screen and (max-width : 1023px){    
+
+    #contactContainer{
+        background: #fff;
+        border-radius: 5px;
+        height: 100%;
+        width: 90%;
+        margin: 20% 5%;
+        padding: 5% 10%;
+    }
+    
+    h2{
+        text-align: center;
+    }
+
+}

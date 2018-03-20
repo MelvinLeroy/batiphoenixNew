@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Freeroad";
+    src: url(../fonts/Freeroad-Regular.ttf) format("truetype");
+}
+
+@font-face{
+	font-family: "FreeroadLight";
+	src: url(../fonts/Freeroad-Light.tff) format("truetype");
+}

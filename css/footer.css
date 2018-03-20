@@ -1,0 +1,39 @@
+#footer{
+	background: #FFFFFF;
+	height: 200px;
+}
+
+.footersection{
+	font-size: 18px;
+	margin-top: 30px;
+	list-style: none;
+}
+
+.footersectionwithlogo{
+	font-size: 18px;
+	list-style: none;
+	margin-top: 16px
+}
+
+.footersectionwithlogo img{
+	width: 100%;
+	padding-right: 72px;
+}
+
+.footertitle{
+	font-weight: bolder;
+	margin-bottom: 15px;
+}
+
+.footersection a{
+	color: black;
+}
+
+#footer2{
+	height: 39px;
+}
+
+.copyright{
+	color: #99AE42;
+	font-size: 14px;
+}

@@ -1,0 +1,14 @@
+#messageContainer{
+        background: #fff;
+        border-radius: 5px;
+        height: 100%;
+        width: 90%;
+        margin: 5% 5%;
+        padding: 5% 10%;
+        text-align: center;
+    }
+    
+    label{
+        font-weight: normal;
+        font-style: normal;
+    }

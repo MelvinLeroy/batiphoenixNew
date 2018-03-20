@@ -1,0 +1,44 @@
+#presseContainer{
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 35px;
+}
+
+#presseTitle{
+    text-align: center;
+    color: #99AE42;
+}
+
+#presseDescription{
+    
+}
+
+.citation-img{
+    width: 100%;
+}
+
+.ilsparlentdenous{
+    padding-top: 120px;
+}
+
+@media screen and (max-width : 1023px){
+
+    #pressContainer{
+        background: #fff;
+        border-radius: 5px;
+        height: auto;
+        width: 90%;
+        text-align: justify;
+        margin: 20% 5%;
+        padding: 5% 10%;
+    }
+
+    #presseContainer p{
+        text-align: justify;
+    }
+    
+    h2{
+        text-align: left;
+    }
+}
